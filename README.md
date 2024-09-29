@@ -18,7 +18,7 @@ Soy **Data Science**, **Data Analytics** y **Data Engineering**, con una sólida
 - Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPI | Streamlit
 
 ### Herramientas de Data Engineering:
-- Docker | Airflow | Hadoop | Hive | Spark
+- Docker | Airflow | Hadoop | Hive | Spark | **Google Cloud Platform (GCP)**
 
 ### Bases de datos:
 - MSSQL | PostgreSQL | BigQuery
